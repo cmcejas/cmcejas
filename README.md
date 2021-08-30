@@ -8,6 +8,7 @@
 
 PC Specs
 -
+ - Windows 11
  - Motherboard - B450 ROG Strix
  - CPU - Ryzen 5 2600
  - RAM -  G Skill Ripjaws V 3600mghz
