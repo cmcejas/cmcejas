@@ -1,4 +1,4 @@
-![Banner](cmcool.png)
+![CMCOOL](CMCOOL.png)
 --={What I have accomplished}=--
 -
  - Monke Bot got verified on top.gg and can be found at https://top.gg/bot/778424945607704576
