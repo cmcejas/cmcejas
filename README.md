@@ -4,7 +4,7 @@
  - Monke Bot got verified on top.gg and can be found at https://top.gg/bot/778424945607704576
  - Monke Bot got verified on dbl at https://discord.ly/monke-bot
  - Monke Bot got verified BY THE Official Discord Staff!
- - Monke Bot was in 500
+ - Monke Bot reached 500 servers
  - Retired the Monke Bot Project
 
 PC Specs
