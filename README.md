@@ -1,10 +1,14 @@
 # Navigating my profile
-- Go to repositories to see my projects
+- ##### Go to repositories to see my projects
 - Read the readMe file of my repositories before looking at them or using so that you are well informed upon them.
-- Pinned mean the project is currently being developed
+- Starred means the project is currently being developed
   - this does not count maintainment
 
 ## Projects
+
+### Stock Checker
+ - Most ambitious project
+ - currently in development [see here](https://github.com/cmcejas/stock-checker)
 
 ### Monke Bot
 ##### easily the most succesful project I have had
@@ -13,10 +17,6 @@
  - Monke Bot got verified BY THE Official Discord Staff!
  - Monke Bot reached 500 servers
  - Retired the Monke Bot Project
-
-### Stock Checker
- - Most ambitious project
- - currently in development [see here](https://github.com/cmcejas/stock-checker)
 
 ### Mouse Jiggler
  - want to make appear as a mouse although just a usb disk
