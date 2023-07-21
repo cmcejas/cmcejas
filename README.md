@@ -1,5 +1,5 @@
 # Navigating my profile
-- ##### Go to repositories to see my projects
+- #### Go to repositories to see my projects
 - Read the readMe file of my repositories before looking at them or using so that you are well informed upon them.
 - Starred means the project is currently being developed
   - this does not count maintainment
