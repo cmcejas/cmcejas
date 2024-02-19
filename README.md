@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-[![cmcejas' GitHub stats](https://github-readme-stats.vercel.app/api?username=cmcejas)](https://github.com/anuraghazra/github-readme-stats)
+[![cmcejas' GitHub stats](https://github-readme-stats.vercel.app/api?username=cmcejas)](https://github.com/anuraghazra/github-readme-stats icons=true)
 
 # Navigating my profile
 - #### Go to repositories to see my projects
