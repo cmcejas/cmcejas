@@ -1,4 +1,4 @@
-[banner](banner.png)
+[banner](./banner.png)
 
 # Navigating my profile
 - #### Go to repositories to see my projects
