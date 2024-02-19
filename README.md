@@ -1,3 +1,5 @@
+[banner](banner.png)
+
 # Navigating my profile
 - #### Go to repositories to see my projects
 - To get to know me visit my website [cmcejas.tech](cmcejas.tech)
